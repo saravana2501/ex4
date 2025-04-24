@@ -32,7 +32,7 @@ Execute the programs and publish them.
 
 ```
 
-map.htmal
+map.htmL
 <!Doctype html>
  <html>
     <body>
